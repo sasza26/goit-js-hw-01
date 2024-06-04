@@ -1,1 +1,1 @@
-'use strict';
+function getElementWidth(a, b, c) { console.log(`${a + b + c}`); }
